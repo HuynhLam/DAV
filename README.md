@@ -13,7 +13,7 @@ This repository contains the PyTorch implementation of our ECCV 2020 paper:
 [Czech Technical University in Prague](http://www.fel.cvut.cz/en/)  
 
 | [Project page](https://bit.ly/dav-project) 
-| [Arxiv]((https://arxiv.org/abs/2004.02760)) 
+| [Arxiv](https://arxiv.org/abs/2004.02760) 
 | [Demo video](https://drive.google.com/file/d/1c8by8GZUUoPLBMeySkH8WkZtTFUgEH-K/view) |
 
 ### Abstract
